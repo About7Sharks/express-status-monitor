@@ -16,6 +16,11 @@
   "author": "Rafal Wilinski <raf.wilinski@gmail.com> (http://rwilinski.me)",
   "contributors": [
     {
+      "name": "Zachary Carlin",
+      "email": "zacarlin@gmail.com",
+      "url": "https://github.com/about7sharks"
+    },
+    {
       "name": "Julien Breux",
       "email": "julien.breux@gmail.com",
       "url": "https://github.com/JulienBreux/"
@@ -59,7 +64,7 @@
   "dependencies": {
     "axios": "0.19.0",
     "debug": "4.1.1",
-    "handlebars": "4.1.2",
+    "handlebars": "4.5.3",
     "on-headers": "1.0.2",
     "pidusage": "2.0.17",
     "request": "2.88.0",
